@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John",
+      "last_name": "Doe",
+      "phone": {
+        "mobile": "+999 99 000 00 00",
+        "work": "",
+        "home": ""
+      },
+      "email": {
+        "email1": "info@mail.ru",
+        "email2": "",
+        "email3": ""
+      },
+      "address": {
+        "address1": "Uzbekistan Tashkent",
+        "address2": "",
+        "address3": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "Scarlet",
+      "last_name": "Doe",
+      "phone": {
+        "mobile": "+ 999 99 000 00 00",
+        "work": "",
+        "home": ""
+      },
+      "email": {
+        "email1": "Info@mail.ru",
+        "email2": "",
+        "email3": ""
+      },
+      "address": {
+        "address1": "USA New York",
+        "address2": "",
+        "address3": ""
+      }
+    },
+    {
+      "id": 4,
+      "name": "Scarlet",
+      "last_name": "Yakko",
+      "phone": {
+        "mobile": "+999 0000 0000",
+        "work": "+999 0000 000 ",
+        "home": ""
+      },
+      "email": {
+        "email1": "Info@mail.ru",
+        "email2": "",
+        "email3": ""
+      },
+      "address": {
+        "address1": "USA",
+        "address2": "",
+        "address3": ""
+      }
+    }
+  ]
+}
